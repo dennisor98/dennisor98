@@ -75,44 +75,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
----
 
-## 💼 Experience Highlights
-
-### Senior Full Stack Software Engineer, Ahadi Wireless Limited (2022 – 2026)
-- Architected the backend microservices for the **Konnect Wallet App**, including secure payment integrations and third-party API orchestration
-- Built and maintained **Konnect App** backend services with **Java (Spring Boot)** and **Node.js** for high availability and scalability
-- Integrated **M-PESA (Daraja API)** for internet service billing and automated collections
-- Designed **Apache Kafka** and **Airflow** workflows for real-time event streaming and ETL pipelines
-- Implemented reliable inter-service communication using **RabbitMQ** and **Kafka**
-- Deployed **MinIO** for scalable, S3-compatible media and document storage
-- Built responsive UIs with **React** and **Angular**, working closely with designers and mobile developers
-- Authored **CI/CD** pipelines for automated builds, testing and deployments
-
-### Mid-Level Software Developer, ServiceNow (2021 – 2022)
-- Designed and deployed cloud solutions on **AWS** (EC2, S3, RDS, Lambda)
-- Managed IAM roles, VPC networking and CloudWatch monitoring in production
-- Built DevOps automation pipelines that reduced deployment lead times
-- Delivered SaaS platform enhancements that improved reliability and uptime for enterprise clients
-- Collaborated with distributed international teams using Jira, Slack and Git
-
-### Software Engineering Freelancer, Upwork / Uvocorp (2019 – 2021)
-- Delivered full-stack projects for international clients with a **99% on-time delivery rate**
-- Built web apps with Node.js, React and RESTful APIs
-
-### Junior Backend Developer, Meliora Technology (2019 – 2020)
-- Contributed to the **Tiara SMS Gateway** microservices using Java and Node.js
-- Built REST endpoints and integrated Angular frontends with backend services
-- Active member of the **Natujenge** engineering community
-
----
-
-## 🎓 Education
-
-- **BSc Computer Science**, Maseno University (2018 – 2022), Second Class Honours, Upper Division
-- **Software Engineering Certificate**, ALX Africa (2019 – 2020)
-
----
 
 ## 📊 GitHub Stats
 
