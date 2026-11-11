@@ -20,12 +20,15 @@
 ## 🧑‍💻 About Me
 
 - 🏗️ Senior engineer experienced in **microservices architecture**, **cloud platforms**, **payment integrations** and modern frontends
-- 💳 Built **M-PESA (Daraja API)** billing and automated collections for internet service providers
+- 💳 Founder & C.E.O **TBRICKS CONSULTANCY**
 - 📡 Designed **event-driven systems** with Kafka, RabbitMQ and Airflow
 - ☁️ Deployed and managed production workloads on **AWS**
 - ⛓️ Tinkering with **Web3** on Solana and Ethereum in my spare time
+- Design and optimization of databases
 - 🌍 Comfortable working with startups and corporations, remote and on-site, across distributed teams
+- Leading backend teams on design and architecture of robust and performant backend systems
 - 📚 Always learning and sharing knowledge with the community
+
 
 ---
 
